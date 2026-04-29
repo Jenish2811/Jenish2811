@@ -45,12 +45,6 @@
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: [Your Link]  
-- 📧 Email: [Your Email]  
-
----
-
 ⭐ *Open to opportunities in Data Analytics*-
 **Jenish2811/Jenish2811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
